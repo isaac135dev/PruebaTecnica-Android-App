@@ -21,7 +21,7 @@ class SingUpViewModel @Inject constructor(
     private val passwordValidator: PasswordValidator,
     private val confirmPasswordValidator: ConfirmPasswordValidator
 ) : ViewModel() {
-    
+
     private val _isErrorValidateEmail = MutableStateFlow(false)
     val isErrorValidateEmail = _isErrorValidateEmail.asStateFlow()
 
