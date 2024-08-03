@@ -6,4 +6,4 @@ Esta aplicación está desarrollada con Jetpack Compose y consta de dos pantalla
 - Lifecycle y Lifecycle ViewModel para manejar el ciclo de vida de los componentes de la UI.
 - Dagger Hilt para la inyección de dependencias.
 
-  [![Video de Demostración]](https://www.youtube.com/watch?v=iNgFyhw5weQ)
+[![Watch the video](https://raw.githubusercontent.com/yourusername/yourrepository/main/assets/thumbnail.jpg)](https://raw.githubusercontent.com/yourusername/yourrepository/main/assets/video.mp4)
